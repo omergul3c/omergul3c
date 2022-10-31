@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omergul3c" alt="omergul3c" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/omergulecdev" target="blank"><img src="https://img.shields.io/twitter/follow/omergulecdev?logo=twitter&style=for-the-badge" alt="omergulecdev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/omergul3c" target="blank"><img src="https://img.shields.io/twitter/follow/omergulecdev?logo=twitter&style=for-the-badge" alt="omergul3c" /></a> </p>
 
 - 🔭 I’m currently working on **an video project**
 
